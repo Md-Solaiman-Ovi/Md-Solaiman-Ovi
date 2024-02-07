@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-solaiman-ovi&label=Profile%20views&color=0e75b6&style=flat" alt="md-solaiman-ovi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-solaiman-ovi" alt="md-solaiman-ovi" /></a> </p>
+
 
 - 🔭 I’m currently working on [Blog site](https://github.com/Md-Solaiman-Ovi/blog-site)
 
