@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, Redux-Toolkit & Tailwind CSS**
 
-- 📫 How to reach me **msovi480@gmail.com**
+- 📫 How to reach me **mdsolaimanovi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
