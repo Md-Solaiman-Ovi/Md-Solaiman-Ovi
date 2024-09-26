@@ -1,15 +1,12 @@
 ### Hello there 👋
 
 
-I am [Mahmudul Hasan Hasib](https://mhhasib.com), a full-stack web developer with real-world experience in **Laravel**, **Express JS**, **React JS**, **Next JS**, **Vue JS**, **Laravel Livewire**, **Alpine JS**, **Tailwind CSS**, **Bootstrap**. As well as skilled in relational and non-relational databases, and software design patterns. Also highly experienced in **REST API** and **GraphQL**. I love to share knowledge with others.
+I am [Md Solaiman Ovi](https://md-solaiman-ovi-portfolio.netlify.app/), a frontend web developer with real-world experience in **React JS**, **Next JS**, **Alpine JS**, **Tailwind CSS**, **Bootstrap**, **Context API**, **Redux**, **Redux-toolkit**. Also experienced in **REST API**. I love to share knowledge with others.
 
-I am working as **Senior Software Engineer** in [**Arisaf Tech Ltd**](https://arisaftech.com/).
+I am working as **Junior Software Engineer** in [**Arisaf Tech Ltd**](https://arisaftech.com/).
 
 
 [![Linkedin Badge](https://img.shields.io/badge/mhhasib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mhhasib/)](https://www.linkedin.com/in/mhhasib/)
-[![Dev.to Badge](https://img.shields.io/badge/M%20H%20Hasib-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/mahmudulhsn/)](https://dev.to/mahmudulhsn)
-[![Youtube Badge](https://img.shields.io/badge/M%20H%20Hasib-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/mhhasib)](https://www.youtube.com/mhhasib)
-[![Twitter Badge](https://img.shields.io/badge/mahmudulhsn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mahmudulhsn/)](https://twitter.com/mahmudulhsn/)
 [![Facebook Badge](https://img.shields.io/badge/M%20H%20Hasib-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/MahmudulHasib115/)](https://www.facebook.com/MahmudulHasib115/)
 [![Instagram Badge](https://img.shields.io/badge/mahmudulhsn-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/mahmudulhsn/)](https://instagram.com/mahmudulhsn)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://mhhasib.com/)](https://mhhasib.com)
@@ -38,13 +35,4 @@ I am working as **Senior Software Engineer** in [**Arisaf Tech Ltd**](https://ar
 
 [![M H Hasib's GitHub Streak](https://streak-stats.demolab.com?user=mahmudulhsn&theme=radical)](https://git.io/streak-stats)
 
-### Latest Articles
-<!-- BLOG-POST-LIST:START -->
-- [Laravel Passport: API authentication with access and refresh token](https://dev.to/mahmudulhsn/laravel-passport-api-authentication-with-access-and-refresh-token-16d0)
-- [Install Husky in your project for proper commit lint with pre-commit hooks](https://dev.to/mahmudulhsn/install-husky-in-your-project-for-proper-commit-lint-with-pre-commit-hooks-25b2)
-- [Use SweetAlert2 with Laravel Livewire](https://dev.to/mahmudulhsn/use-sweetalert2-with-laravel-livewire-49ij)
-- [Laravel Has Many Through Relationship Explained with Example](https://dev.to/mahmudulhsn/laravel-has-many-through-relationship-explained-with-example-22p4)
-- [Update existing table&#39;s column with migration without losing data in Laravel](https://dev.to/mahmudulhsn/update-existing-table-with-migration-without-losing-in-data-in-laravel-fb1)
-<!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://dev.to/mahmudulhsn/)
