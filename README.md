@@ -22,8 +22,9 @@ I am working as **Junior Software Engineer** in [**Arisaf Tech Ltd**](https://ar
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![Md Solaiman Ovi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulhsn&show_icons=true&theme=radical)
+## GitHub Stats
 
-[![Md Solaiman Ovi's GitHub Streak](https://streak-stats.demolab.com?user=mahmudulhsn&theme=radical)](https://git.io/streak-stats)
+[![Md Solaiman Ovi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Solaiman-Ovi&show_icons=true&theme=radical)](https://github.com/Md-Solaiman-Ovi)
 
+[![Md Solaiman Ovi's GitHub Streak](https://streak-stats.demolab.com?user=Md-Solaiman-Ovi&theme=radical)](https://git.io/streak-stats)
 
