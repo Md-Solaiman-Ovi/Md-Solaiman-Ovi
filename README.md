@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Font generator](https://github.com/Md-Solaiman-Ovi/Font-Generator)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Md-Solaiman-Ovi](https://github.com/Md-Solaiman-Ovi)
+- 👨‍💻 All of my projects are available at ([https://github.com/Md-Solaiman-Ovi](https://github.com/Md-Solaiman-Ovi?tab=repositories))
 
 - 💬 Ask me about **React, Redux-Toolkit & Tailwind CSS**
 
