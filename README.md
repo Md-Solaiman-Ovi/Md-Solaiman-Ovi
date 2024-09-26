@@ -1,34 +1,50 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Md Solaiman Ovi</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-solaiman-ovi&label=Profile%20views&color=0e75b6&style=flat" alt="md-solaiman-ovi" /> </p>
+### Hello there 👋
 
 
+I am [Mahmudul Hasan Hasib](https://mhhasib.com), a full-stack web developer with real-world experience in **Laravel**, **Express JS**, **React JS**, **Next JS**, **Vue JS**, **Laravel Livewire**, **Alpine JS**, **Tailwind CSS**, **Bootstrap**. As well as skilled in relational and non-relational databases, and software design patterns. Also highly experienced in **REST API** and **GraphQL**. I love to share knowledge with others.
 
-- 🔭 I’m currently working on [Blog site](https://github.com/Md-Solaiman-Ovi/blog-site)
+I am working as **Senior Software Engineer** in [**Arisaf Tech Ltd**](https://arisaftech.com/).
 
-- 🌱 I’m currently learning **React.js, Next.js, Redux-Toolkit & Tailwind CSS**
 
-- 👯 I’m looking to collaborate on [Font generator](https://github.com/Md-Solaiman-Ovi/Font-Generator)
+[![Linkedin Badge](https://img.shields.io/badge/mhhasib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mhhasib/)](https://www.linkedin.com/in/mhhasib/)
+[![Dev.to Badge](https://img.shields.io/badge/M%20H%20Hasib-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/mahmudulhsn/)](https://dev.to/mahmudulhsn)
+[![Youtube Badge](https://img.shields.io/badge/M%20H%20Hasib-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/mhhasib)](https://www.youtube.com/mhhasib)
+[![Twitter Badge](https://img.shields.io/badge/mahmudulhsn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mahmudulhsn/)](https://twitter.com/mahmudulhsn/)
+[![Facebook Badge](https://img.shields.io/badge/M%20H%20Hasib-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/MahmudulHasib115/)](https://www.facebook.com/MahmudulHasib115/)
+[![Instagram Badge](https://img.shields.io/badge/mahmudulhsn-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/mahmudulhsn/)](https://instagram.com/mahmudulhsn)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://mhhasib.com/)](https://mhhasib.com)
 
-- 👨‍💻 All of my projects are available at ([https://github.com/Md-Solaiman-Ovi](https://github.com/Md-Solaiman-Ovi?tab=repositories))
+## 🛠️ I'm skilled at:
 
-- 💬 Ask me about **React, Redux-Toolkit & Tailwind CSS**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel Framework](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React JS](https://img.shields.io/badge/ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-- 📫 How to reach me **mdsolaimanovi@gmail.com**
+![M H Hasib's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudulhsn&show_icons=true&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/md-solaiman-ovi-83a9b4162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-solaiman-ovi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/msovi480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/msovi480?mibextid=kfxxjd" height="30" width="40" /></a>
-</p>
+[![M H Hasib's GitHub Streak](https://streak-stats.demolab.com?user=mahmudulhsn&theme=radical)](https://git.io/streak-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Latest Articles
+<!-- BLOG-POST-LIST:START -->
+- [Laravel Passport: API authentication with access and refresh token](https://dev.to/mahmudulhsn/laravel-passport-api-authentication-with-access-and-refresh-token-16d0)
+- [Install Husky in your project for proper commit lint with pre-commit hooks](https://dev.to/mahmudulhsn/install-husky-in-your-project-for-proper-commit-lint-with-pre-commit-hooks-25b2)
+- [Use SweetAlert2 with Laravel Livewire](https://dev.to/mahmudulhsn/use-sweetalert2-with-laravel-livewire-49ij)
+- [Laravel Has Many Through Relationship Explained with Example](https://dev.to/mahmudulhsn/laravel-has-many-through-relationship-explained-with-example-22p4)
+- [Update existing table&#39;s column with migration without losing data in Laravel](https://dev.to/mahmudulhsn/update-existing-table-with-migration-without-losing-in-data-in-laravel-fb1)
+<!-- BLOG-POST-LIST:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-solaiman-ovi&show_icons=true&locale=en&layout=compact" alt="md-solaiman-ovi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-solaiman-ovi&show_icons=true&locale=en" alt="md-solaiman-ovi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-solaiman-ovi&" alt="md-solaiman-ovi" /></p>
+▶ [...more blog articles](https://dev.to/mahmudulhsn/)
