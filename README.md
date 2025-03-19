@@ -3,7 +3,7 @@
 
 I am [Md Solaiman Ovi](https://md-solaiman-ovi-portfolio.netlify.app/), a passionate frontend web developer with hands-on experience in building responsive, scalable, and efficient web applications using React JS, Next JS, Alpine JS, Tailwind CSS, Bootstrap, Context API, Redux, and Redux Toolkit. I’m well-versed in integrating REST APIs into modern web applications. Sharing knowledge and helping others grow in the tech community is something I deeply enjoy, and I’m always excited about learning new technologies and solving challenging problems.
 
-I am working as **Junior Software Engineer** in [**Arisaf Tech Ltd**](https://arisaftech.com/).
+Currently, I am working as **Junior Software Engineer** in [**Arisaf Tech Ltd**](https://arisaftech.com/).
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=About.me&logoColor=black&link=https://md-solaiman-ovi-portfolio.netlify.app/)](https://md-solaiman-ovi-portfolio.netlify.app/)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/md-solaiman-ovi-83a9b4162/)](https://www.linkedin.com/in/md-solaiman-ovi-83a9b4162/)
