@@ -6,8 +6,8 @@ I am [Md Solaiman Ovi](https://md-solaiman-ovi-portfolio.netlify.app/), a passio
 I am working as **Junior Software Engineer** in [**Arisaf Tech Ltd**](https://arisaftech.com/).
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=About.me&logoColor=black&link=https://md-solaiman-ovi-portfolio.netlify.app/)](https://md-solaiman-ovi-portfolio.netlify.app/)
-[![Linkedin Badge](https://img.shields.io/badge/Md%20Solainman%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/md-solaiman-ovi-83a9b4162/)](https://www.linkedin.com/in/md-solaiman-ovi-83a9b4162/)
-[![Facebook Badge](https://img.shields.io/badge/Md%20Solainman%20Ovi-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/msovi480)](https://www.facebook.com/msovi480)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/md-solaiman-ovi-83a9b4162/)](https://www.linkedin.com/in/md-solaiman-ovi-83a9b4162/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/msovi480)](https://www.facebook.com/msovi480)
 
 
 ## 🛠️ I'm skilled at:
